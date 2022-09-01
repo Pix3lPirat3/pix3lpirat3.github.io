@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "docsify": "^4.12.2",
+    "docsify-tools": "^1.0.20"
+  }
+}
