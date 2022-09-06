@@ -36,7 +36,7 @@ bot.on('kicked', console.log)
 bot.on('error', console.log)
 ```
 
-Shared Thread (**Not Recommended**)
+### Shared Thread (**Not Recommended**)
 It is not recommended to control bots on the same thread, as once you start performing resource hogging functions, the bots *will* start to drop.
 ```js
 var mineflayer = require('mineflayer')
