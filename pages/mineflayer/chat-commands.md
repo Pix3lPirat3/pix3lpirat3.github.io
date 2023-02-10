@@ -28,7 +28,7 @@ const prefix = "!";
 
 bot.on("chat", function (username, message) {
   if (username === bot.username) return;
-  if(!whitelist.includes(username)) return; // <- We check if the player's username is in the whitelist array
+  if (!whitelist.includes(username)) return; // <- We check if the player's username is in the whitelist array
   if (!message.startsWith(prefix)) return;
 
   var args = message.split(" ");
