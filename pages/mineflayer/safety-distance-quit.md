@@ -3,7 +3,6 @@ If a non-whitelisted player is nearby, the bot will disconnect
 
 ```js
 let whitelist = ['Pix3lPirat3', 'Pix3lSlime'];
-let disconnect_radius = 15;
 
 bot.once("spawn", function () {
   let timer = setInterval(function() {
