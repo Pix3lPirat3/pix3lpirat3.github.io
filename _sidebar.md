@@ -7,3 +7,4 @@
     * [Nearby Entities](pages/mineflayer/nearby-entities.md)
     * [Online Players](pages/mineflayer/online-players.md)
     * [Session Login](pages/mineflayer/session-login.md)
+    * [Distance Quit](pages/mineflayer/safety-distance-quit.md)
