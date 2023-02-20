@@ -1,5 +1,3 @@
-Object.values(bot.scoreboard.sidebar.itemsMap).map(e => e.displayName.getText())
-
 ### Accessing Scoreboard
 You can access the scoreboard object through
 ```js
