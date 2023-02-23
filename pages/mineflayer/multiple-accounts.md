@@ -48,6 +48,6 @@ one.on('spawn', function() {
 })
 
 two.on('spawn', function() {
-  console.log(`Bot #1 has spawned`)
+  console.log(`Bot #2 has spawned`)
 })
 ```
